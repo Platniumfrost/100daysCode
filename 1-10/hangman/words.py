@@ -1,0 +1,16 @@
+word_list = [
+'python',
+'games',
+'javascript',
+'styles',
+'csharp',
+'programming',
+'computer',
+'code',
+'inspect',
+'debbuging',
+'hangman',
+'error',
+'syntax',
+'quotation',
+]
